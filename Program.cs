@@ -1,5 +1,5 @@
 ﻿            float A, P, imc;
-            Console.WriteLine("Olá, seja bem-vindo ao App de Calculo de Massa Corpórea - IMC");
+            Console.WriteLine("Olá, seja bem-vindo ao App de Calculo de Massa Corporal - IMC");
             Console.WriteLine("Digite o seu peso: ");
             P = float.Parse(Console.ReadLine());
             Console.WriteLine("Digite a sua altura com vírgula: ");
