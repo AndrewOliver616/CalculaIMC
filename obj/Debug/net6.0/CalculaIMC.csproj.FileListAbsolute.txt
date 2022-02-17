@@ -1,0 +1,15 @@
+D:\Alura C#\Calcula IMC\CalculaIMC\bin\Debug\net6.0\CalculaIMC.exe
+D:\Alura C#\Calcula IMC\CalculaIMC\bin\Debug\net6.0\CalculaIMC.deps.json
+D:\Alura C#\Calcula IMC\CalculaIMC\bin\Debug\net6.0\CalculaIMC.runtimeconfig.json
+D:\Alura C#\Calcula IMC\CalculaIMC\bin\Debug\net6.0\CalculaIMC.dll
+D:\Alura C#\Calcula IMC\CalculaIMC\bin\Debug\net6.0\ref\CalculaIMC.dll
+D:\Alura C#\Calcula IMC\CalculaIMC\bin\Debug\net6.0\CalculaIMC.pdb
+D:\Alura C#\Calcula IMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.csproj.AssemblyReference.cache
+D:\Alura C#\Calcula IMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alura C#\Calcula IMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.AssemblyInfoInputs.cache
+D:\Alura C#\Calcula IMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.AssemblyInfo.cs
+D:\Alura C#\Calcula IMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.csproj.CoreCompileInputs.cache
+D:\Alura C#\Calcula IMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.dll
+D:\Alura C#\Calcula IMC\CalculaIMC\obj\Debug\net6.0\ref\CalculaIMC.dll
+D:\Alura C#\Calcula IMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.pdb
+D:\Alura C#\Calcula IMC\CalculaIMC\obj\Debug\net6.0\CalculaIMC.genruntimeconfig.cache
